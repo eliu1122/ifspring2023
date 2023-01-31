@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(102, 102, 102);
+}
+
+div {
+    background-color: #f9f9f9;
+    border-left: 10px solid #ccc;
+    border-right: 10px solid #ccc;
+    text-align: center;
+    margin: 1.5em 400px;
+    padding: 0.5em 10px;
+  }
+p{
+  text-align: left;
+}
+
+h1{
+  text-align: center;
+  color: red;
+  font-size:100px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
