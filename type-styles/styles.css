@@ -1,0 +1,78 @@
+html{
+  color:grey;
+  font-family: 'Crimson Text', serif;
+  font-size: 18pt;
+}
+
+div{
+  margin-bottom:100px;
+  outline: solid;
+  text-align:center;
+  padding:2em;
+}
+
+h2{
+  text-align:left;
+}
+
+p{
+  text-align:left;
+}
+
+.except{
+  margin-bottom:25px;
+  outline:none;
+  text-align:left;
+  color:rgba(255, 0, 0, 0.507);
+}
+
+.w{
+  font-weight: normal;
+}
+
+.bo{
+  font-weight: bold;
+}
+
+.ital{
+  font-style:italic;
+}
+
+.ls3{
+  letter-spacing:0.3em;
+}
+
+.ls-0{
+  letter-spacing:-0.2em;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.linethrough{
+  text-decoration:line-through;
+}
+
+.overline{
+  text-decoration:overline;
+}
+
+.uppercase{
+  text-transform:uppercase;
+}
+
+.lowercase{
+  text-transform:lowercase;
+}
+
+.capitalize{
+  text-transform:capitalize;
+}
+
+.desc{
+  font-size:15px;
+  font-weight:bold;
+  margin-bottom:-20px;
+
+}
