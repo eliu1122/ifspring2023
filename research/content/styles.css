@@ -1,0 +1,88 @@
+html{
+  color:grey;
+  font-family: 'Crimson Text', serif;
+  font-size: 18pt;
+}
+
+div{
+  margin-bottom:25px;
+  margin-left:50px;
+  margin-right:50px;
+  text-align:center;
+  padding:1em;
+}
+
+h2{
+  text-align:left;
+}
+
+p{
+  text-align:left;
+}
+
+li{
+  text-align:left;
+  margin-bottom: 20px;
+}
+
+.cent{
+  display: block;
+  text-align:center;
+}
+
+.except{
+  margin-bottom:10px;
+  outline:none;
+  text-align:left;
+}
+
+.w{
+  font-weight: normal;
+}
+
+.bo{
+  font-weight: bold;
+}
+
+.ital{
+  font-style:italic;
+}
+
+.ls3{
+  letter-spacing:0.3em;
+}
+
+.ls-0{
+  letter-spacing:-0.2em;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.linethrough{
+  text-decoration:line-through;
+}
+
+.overline{
+  text-decoration:overline;
+}
+
+.uppercase{
+  text-transform:uppercase;
+}
+
+.lowercase{
+  text-transform:lowercase;
+}
+
+.capitalize{
+  text-transform:capitalize;
+}
+
+.desc{
+  font-size:15px;
+  font-weight:bold;
+  margin-bottom:-20px;
+
+}
