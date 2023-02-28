@@ -1,0 +1,105 @@
+html{
+  font-family: 'Archivo Narrow', sans-serif;
+  font-size:20px;
+}
+
+
+h1{
+  padding-top:5%;
+  text-align: center;
+  font-size:100px;
+}
+
+h2{
+  margin-top:-2%;
+  text-align:center;
+}
+
+.first{
+  width:100%;
+  height:480px;
+  background-image: url('https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg');
+}
+
+.sectionTitle{
+  text-align:center;
+  font-size:40px;
+  font-weight:bold;
+  margin-top:0;
+  padding-top:1.5%;
+}
+
+.second{
+  background-color:grey;
+  width:100%;
+  height:715px;
+}
+
+#sec{
+  width:70%;
+  margin-left:20%;
+  text-align:left;
+}
+
+#secondImage{
+  float:right;
+  width:400px;
+  height:300px;
+  margin: 0 24% 0 2rem;
+}
+
+.third{
+  background-color:white;
+  width:100%;
+  height:700px;
+}
+
+.thirdImage{
+  width:200px;
+  height:150px;
+}
+
+.content{
+  text-align:center;
+  margin-left:22%;
+  width:1100px;
+}
+
+.content-info{
+  display:flex;
+  float:left;
+  margin-top:-10px;
+}
+
+.spec{
+  width:250px;
+  margin-top:-20px;
+}
+
+h5{
+  display:block;
+  text-align:left;
+  font-size:larger;
+  margin-left: 10px;
+  margin-bottom:-10px;
+}
+
+.fourth{
+  background-color:lightcyan;
+  width:100%;
+  height:400px;
+}
+
+#cont{
+  width:40%;
+  margin-left:30.5%;
+  text-align:center;
+}
+
+#copy{
+  text-align:left;
+  padding-top:15px;
+  padding-left:22%;
+  font-weight:bold;
+}
+
