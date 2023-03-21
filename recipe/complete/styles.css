@@ -38,6 +38,27 @@ h2{
   margin-right:10%;
 }
 
+.float-container {
+  /* border: 3px solid #0a0808; */
+  height:50%;
+  margin:10%;
+  margin-top:-5%;
+}
+
+.float-child {
+  display: inline-block;
+  width: 25%;
+  vertical-align: top; /* optional, to align the top of the divs */
+  /* border: 2px solid red; */
+}  
+
+.instructions{
+  margin-top:-20%;
+}
+
+
+
+
 p{
   text-align:left;
 }
