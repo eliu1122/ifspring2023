@@ -1,0 +1,105 @@
+html{
+  color:grey;
+  font-family: 'Crimson Text', serif;
+  font-size: 24pt;
+}
+
+div{
+  margin-bottom:25px;
+  margin-left:50px;
+  margin-right:50px;
+  text-align:center;
+  padding:1em;
+}
+
+h1{
+  text-align:center;
+  color:white;
+  font-size: 75px;
+}
+
+.first{
+  height:1000px;
+  background-image: url('https://www.pressurecookrecipes.com/wp-content/uploads/2019/09/instant-pot-taiwanese-braised-pork.jpg');
+}
+
+.head{
+  text-align:center;
+  color:white;
+  font-size:25px;
+}
+
+h2{
+  text-align:center;
+}
+
+.h2{
+  margin-left:10%;
+  margin-right:10%;
+}
+
+p{
+  text-align:left;
+}
+
+li{
+  text-align:left;
+  margin-bottom: 20px;
+}
+
+.cent{
+  display: block;
+  text-align:center;
+}
+
+
+.w{
+  font-weight: normal;
+}
+
+.bo{
+  font-weight: bold;
+}
+
+.ital{
+  font-style:italic;
+}
+
+.ls3{
+  letter-spacing:0.3em;
+}
+
+.ls-0{
+  letter-spacing:-0.2em;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.linethrough{
+  text-decoration:line-through;
+}
+
+.overline{
+  text-decoration:overline;
+}
+
+.uppercase{
+  text-transform:uppercase;
+}
+
+.lowercase{
+  text-transform:lowercase;
+}
+
+.capitalize{
+  text-transform:capitalize;
+}
+
+.desc{
+  font-size:15px;
+  font-weight:bold;
+  margin-bottom:-20px;
+
+}
