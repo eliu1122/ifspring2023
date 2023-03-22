@@ -43,6 +43,7 @@ h2{
   height:50%;
   margin:10%;
   margin-top:-5%;
+  margin-bottom:-5%;
 }
 
 .float-child {
@@ -54,6 +55,7 @@ h2{
 
 .instructions{
   margin-top:-20%;
+  padding-top:-20%;
 }
 
 
