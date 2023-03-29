@@ -42,46 +42,29 @@ div {
 
 
 
-
-.button1 {
-    position: relative;
+  .button1 {
     background-color: #000000;
     border: none;
-    font-size: 12px;
-    color: #FFFFFF;
-    padding: 20px;
-    width: 200px;
+    color: white;
+    padding: 16px 32px;
     text-align: center;
-    -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
-    text-decoration: none;
-    overflow: hidden;
-    cursor: pointer;
-    margin-top:85px;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    margin-top:88px;
   }
 
   .button1 span{
+    font-weight:bold;
     color:white;
   }
+
   
-  .button1:after {
-    content: "";
-    background: #f7f7f7;
-    display: block;
-    position: absolute;
-    padding-top: 300%;
-    padding-left: 350%;
-    margin-left: -20px!important;
-    margin-top: -120%;
-    opacity: 0;
-    transition: all 0.8s
-  }
-  
-  .button1:active:after {
-    padding: 0;
-    margin: 0;
-    opacity: 1;
-    transition: 0s
+  .button1:hover {background-color:white;}
+
+  .button1 span:hover{
+    color:black;
   }
 
 
@@ -148,7 +131,12 @@ div {
     color:white;
   }
   
-  .button3:hover {opacity: 1}
+  .button3:hover {
+    opacity: 1;}
+  
+  .button3 span:hover{
+    color:#00E6F6;
+  }
   
 
   .fa {
@@ -346,6 +334,7 @@ div {
 
 
 .button7 {
+    display:block;
     background-color: #ffffff;
     border: none;
     color: white;
@@ -356,7 +345,14 @@ div {
     transition: 0.3s;
   }
   
-  .button7:hover {opacity: 1}
+  .button7:hover {
+    opacity: 1;
+    border-width: 2px black;
+    border-style:dotted;
+  }
+
+
+
 
   .button8 {
     background-color: #ffffff;
