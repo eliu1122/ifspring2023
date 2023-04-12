@@ -1,5 +1,5 @@
 html{
-  font-family: 'Archivo Narrow', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size:20px;
 }
 
@@ -8,9 +8,10 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #FDFEEE;
   position:fixed;
   width:100%;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
 }
 
 li {
@@ -23,6 +24,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  color:#F4703F;
 }
 
 li a:hover {
@@ -33,13 +35,21 @@ li a:hover {
 .first{
   width:100%;
   height:480px;
-  background-image: url('https://cdn.wallpapersafari.com/44/77/DVPEzL.png');
+  background-color:#D3EADF;
 }
 
 .first h1{
   padding-top:10%;
   text-align: center;
   font-size:100px;
+  color:#F4703F;
+}
+
+#illustration{
+  float:left;
+  position:absolute;
+  left:30%;
+  margin-top:120px;
 }
 
 @media screen and (max-width: 1000px) {
@@ -47,12 +57,14 @@ li a:hover {
     padding-top:15%;
     text-align: center;
     font-size:100px;
+    color:#F4703F;
   }
 }
 
 h2{
   margin-top:-2%;
   text-align:center;
+  color:#F4703F;
 }
 
 .sectionTitle{
@@ -61,17 +73,19 @@ h2{
   font-weight:bold;
   margin-top:0;
   padding-top:1.5%;
+  color:#BB4850;
 }
 
 .second{
-  background-color:grey;
+  background-color:#FDFEEE;
   width:100%;
   height:715px;
 }
 
 #sec{
-  width:70%;
+  width:60%;
   margin-left:20%;
+  margin-right:20%;
   text-align:left;
 }
 
@@ -83,7 +97,7 @@ h2{
 }
 
 .third{
-  background-color:white;
+  background-color:#FDFEEE;
   width:100%;
   height:700px;
 }
@@ -119,7 +133,7 @@ h5{
 }
 
 .fourth{
-  background-color:lightcyan;
+  background-color:#FDFEEE;
   width:100%;
   height:400px;
 }
