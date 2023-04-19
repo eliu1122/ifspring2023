@@ -215,8 +215,8 @@ h5{
   #secondImage{
     display: inline-block;
     margin: 0 auto;
-    width:500px;
-    height:500px;
+    width:100%;
+    height:auto;
     align-content:center;
     margin-bottom:10%;
   }
