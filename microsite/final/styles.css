@@ -1,5 +1,5 @@
 html{
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Spicy Rice', sans-serif;
   font-size:20px;
   scroll-behavior: smooth;
 }
@@ -31,10 +31,12 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
   color:#F4703F;
+  font-family: 'Sofia';
+  font-weight:bold;
 }
 
 li a:hover {
-  background-color: #111;
+  background-color: #5c5c5b;
 }
 
 
@@ -49,6 +51,9 @@ li a:hover {
   text-align: center;
   font-size:100px;
   color:#F4703F;
+  font-family: 'Princess Sofia';
+font-weight: 100;
+font-style: normal;
 }
 
 #illustration{
@@ -68,7 +73,7 @@ li a:hover {
 h2{
   margin-top:-2%;
   text-align:center;
-  color:#F4703F;
+  color:#5c5c5b;
 }
 
 .sectionTitle{
@@ -78,6 +83,9 @@ h2{
   margin-top:0;
   padding-top:1.5%;
   color:#BB4850;
+  font-family: 'Sofia';
+font-weight: 100;
+font-style: normal;
 }
 
 .second{
@@ -134,7 +142,7 @@ h5{
 
 .sixth{
   background-color:#FDFEEE;
-  height:200px;
+  height:auto;
 }
 
 #cont{
@@ -152,6 +160,9 @@ h5{
 
 #back{
   background-color:#FDFEEE;
+  float:center;
+  margin-top:0;
+  margin-bottom:0;
 }
 
 
@@ -237,7 +248,6 @@ h5{
     margin-top:-2%;
     text-align:center;
     font-size:20px;
-    color:#F4703F;
   }
 
   #illustration{
@@ -260,7 +270,6 @@ h5{
     margin-top:-2%;
     text-align:center;
     font-size:18px;
-    color:#F4703F;
   }
 
   #illustration{
