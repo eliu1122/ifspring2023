@@ -114,6 +114,7 @@ h2{
   }  
 }
 
+
 .instructions{
   margin-top:-20%;
   padding-top:-20%;
@@ -211,4 +212,27 @@ li{
   font-size: 30px;
   font-size:auto;
   padding:0;
+}
+
+h3{
+  padding-bottom:0;
+  margin-bottom:0;
+  text-decoration:underline;
+}
+
+@media screen and (max-width: 1200px) {
+  .container {
+    display:block;
+    height:auto;
+  }
+  
+  img {
+    width:100%;
+  }
+  
+  .text {
+    font-size: 30px;
+    font-size:auto;
+    padding:0;
+  }
 }
